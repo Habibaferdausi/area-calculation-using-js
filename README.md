@@ -1,5 +1,11 @@
-#
+#Geometry Genius
 
-Area calculation  is a web-based application that allows users to calculate the area of different geometric shapes such as rectangle, circle, triangle, etc. using JavaScript programming language.
+Geometry Genius is a web-based application that allows users to calculate the area of different geometric shapes such as rectangle, triangle, Parallelogram,Rhombus,Pentagon,Ellipse using JavaScript programming language.
 
-To build this project, I useed HTML, CSS, and JavaScript. 
+To build this project, I used HTML, CSS, and JavaScript {DOM (Document Object Model)}.
+
+
+## 🔗 Links
+
+[Geometry Genius](https://habibaferdausi.github.io/area-calculation-using-js/)
+
